@@ -31,7 +31,7 @@ export const managers = [
       "name": "Carl",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Location: Rebuild Hell", // (optional)
-      "bio": "Can be found huddled in a corner, rocking back and forth, desperately telling himself that Trey Lance and Kyle Pitts aren't busts.",
+      "bio": "Lorem ipsum",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2013, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "jax", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
