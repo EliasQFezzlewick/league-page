@@ -96,7 +96,7 @@
 </style>
 
 <div class="constitution">
-    <h1 class="noUnderscore">LEGENDS LEAGUE CONSTITUTION</h1>
+    <h1 class="noUnderscore">Skittles Bowl Charter</h1>
     
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
     
@@ -158,10 +158,16 @@
         <li>D/ST</li>
     </ul>
     
-    <p>10 Bench (Expanded by 5 between the keague draft and start of regular season)</p>
+    <p>10 Bench slots. This may be temporarily expanded post-draft, as per Sleeper site rules</p>
     
-    <p>3 Taxi (Ineligible after Year 1)</p>
-        
+    <p>3 Taxi slots</p>
+    <p>The Taxi slots are a special slot for stashing young players</p>
+    <p>•	Only Rookies are eligible for the taxi squad, and must be assigned to the taxi squad before the season starts.</p>
+    <p>•	Players can’t be added directly to the Taxi squad, they must be added to your roster and moved into the Taxi slot.</p>
+    <p>•	Players can be promoted to the active roster during the season, but players can’t be added to the taxi squad once the season starts.</p>
+    <p>•	Players must be taken off the taxi squad after their rookie year.</p>
+    
+    
     <h3 class="subSectionHeading" bind:this={oneTwo}>1.2 Trading</h3>
     
     <p>Trading of players and draft picks (up to 3 drafts away) are allowed. Trades will process immediately and will be reversed if vetoed or under investigation for collusion. Tradable assets include players, draft picks, and FAAB $.</p>
