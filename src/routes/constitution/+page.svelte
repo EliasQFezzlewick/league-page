@@ -96,7 +96,7 @@
 </style>
 
 <div class="constitution">
-    <h1 class="noUnderscore">Skittles Bowl Charter</h1>
+    <h1 class="noUnderscore">Skittles Bowl Charter [still under construction]</h1>
     
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
     
