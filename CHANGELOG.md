@@ -2,6 +2,59 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.2.8] - 2023-08-21
+
+### Fixed
+
+- If a league did multiple drafts in the same season (startup and rookie for example), only the most recent was displayed. This ensures that all drafts from a particular season are displayed. [(issue #240)](https://github.com/nmelhado/league-page/issues/240)
+
+## [2.2.7] - 2023-08-21
+
+### Fixed
+
+- Some matchups only had one team in the matchup (playing themselves ????), which caused bugs in any page that touched league records [(issue #244)](https://github.com/nmelhado/league-page/issues/244)
+
+## [2.2.6] - 2023-07-25
+
+### Fixed
+
+- Small bug that was causing the performance comparisson to not always show up in the rivalry page
+
+## [2.2.5] - 2023-06-30
+
+### Fixed
+
+- Fix resources bug. NBC Sports Edge API no longer works and was breaking the resources page [(issue #230)](https://github.com/nmelhado/league-page/issues/230)
+    - Removed it for now. Will try to add it back if I can find the new API
+
+## [2.2.4] - 2023-06-25
+
+### Fixed
+
+- Fix weird bug where stats comparisson dissapeared from rivalry page
+
+## [2.2.3] - 2023-06-25
+
+### Added
+
+- Added fpts/game and win % to the rivalry page as well as emphasizing which manager is leading in each category
+
+## [2.2.2] - 2023-06-25
+
+### Fixed
+
+- Fix edge case from transactions in the calendar year before the first fantasy season [(issue #206)](https://github.com/nmelhado/league-page/issues/206)
+
+- Fix navigation when clicking on rival [(issue #212)](https://github.com/nmelhado/league-page/issues/212)
+
+- Fix page freeze on records > playoffs > season records [(issue #213)](https://github.com/nmelhado/league-page/issues/213)
+
+- Fix standings page during preseason [(issue #221)](https://github.com/nmelhado/league-page/issues/221)
+
+### Changed
+
+- Use name from managers array (if available) instead of username [(issue #227)](https://github.com/nmelhado/league-page/issues/227)
+
 ## [2.2.1] - 2023-04-30
 
 ### Fixed
